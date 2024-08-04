@@ -1,2 +1,2 @@
 #Task_1 #Prodigy_Infotech_DS_Task01
-Histogram to visualize the distribution of categorical variable and distribution of continent and Growth Rate.
+In my latest analysis, I created a histogram to visualize the distribution of growth rate in a sample dataset. This chart helps in understanding the frequency of different continent groups within the data. Visualizations like this are crucial for gaining insights and making informed decisions. The histogram clearly shows the spread and concentration of growth among the continents, allowing for better analysis and interpretation. 
